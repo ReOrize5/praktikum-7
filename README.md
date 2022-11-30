@@ -41,6 +41,10 @@ Dan untuk outputnya akan jadi seperti ini :
 
 ![Screenshot 2022-11-30 162832](https://user-images.githubusercontent.com/115756982/204758695-81e43d94-cb70-4879-8dca-fb6200f1a587.png)
 
+#Diatas merupakan tampilan awalannya
+
+
+
 
 
 
